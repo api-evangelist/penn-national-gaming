@@ -1,7 +1,12 @@
 aid: penn-national-gaming
-url: https://raw.githubusercontent.com/api-evangelist/penn-national-gaming/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/penn-national-gaming/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.penn-national-gaming.com
+description: >-
+  Penn National Gaming is one of the largest and most diversified regional gaming
+  and racing companies in the United States, operating casinos and racetracks across
+  multiple states.
