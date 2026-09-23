@@ -1,7 +1,9 @@
 ---
 title: Penn National Gaming Completes Acquisition of Score ...
 url: https://www.linkedin.com/posts/thescore_penn-national-gaming-completes-acquisition-activity-6856317177126039552-RkbX?trk=public_profile_like_view
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Penn National Gaming" press release artificial intelligence'
 position: 2
 source: serpapi-google

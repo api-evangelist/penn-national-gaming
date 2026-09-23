@@ -1,7 +1,9 @@
 ---
 title: SEC Charges Former Employee of Online Gambling ...
 url: https://www.sec.gov/newsroom/press-releases/2022-105
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Penn National Gaming" press release artificial intelligence'
 position: 3
 source: serpapi-google

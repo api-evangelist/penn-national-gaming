@@ -1,7 +1,9 @@
 ---
 title: Penn National buys video gaming company
 url: https://www.readingeagle.com/2015/08/01/penn-national-buys-video-gaming-company/
-date: '2026-05-25'
+published: '2015-08-01'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"Penn National Gaming" press release artificial intelligence'
 position: 4
 source: serpapi-google
